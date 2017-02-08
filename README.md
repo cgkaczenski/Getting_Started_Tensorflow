@@ -31,6 +31,7 @@ To avoid losing work between sessions in the container, it is recommended that y
 This will allow you to save work and have access to generated files on the host filesystem.
 
 On Windows, mount directories using:
+
 	docker run -p 8888:8888 -v //c/path/to/Getting_Started_TensorFlow>:/notebooks -it --rm $USER/assignments
 
 Accessing the Notebooks
