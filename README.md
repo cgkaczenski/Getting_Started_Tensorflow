@@ -1,5 +1,6 @@
-Examples from Getting Started with Tensorflow by Giancarlo Zaccone
-===========================================================
+Examples from Getting Started with Tensorflow 
+===============================================
+Simple Examples with Tensorflow, including MNIST
 
 
 Building and Running the Docker container 
