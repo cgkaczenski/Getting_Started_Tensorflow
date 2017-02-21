@@ -1,4 +1,12 @@
 notMNIST_large*
 notMNIST_small*
+MNIST*
+test*
+train*
 .ipynb_checkpoints/
 notMNIST.pickle
+extra.tar.gz
+t10k-images-idx3-ubyte.gz
+t10k-labels-idx1-ubyte.gz
+train-images-idx3-ubyte.gz
+train-labels-idx3-ubyte.gz
